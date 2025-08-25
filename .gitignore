@@ -1,0 +1,15 @@
+# Ignore Python virtual environment folder
+my_env/
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+
+# (Optional) Ignore VS Code workspace settings
+.vscode/
