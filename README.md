@@ -1,10 +1,10 @@
-# 🛒 Walmart Sales & Business Insights – SQL & Python Analysis
+# Walmart Sales & Business Insights – SQL & Python Analysis
 
 _Analyzing Walmart’s sales, payment methods, customer ratings, and revenue trends using SQL and Python to support business strategy and decision-making._
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - <a href="#overview">Overview</a>  
 - <a href="#business-problem">Business Problem</a>  
 - <a href="#dataset">Dataset</a>  
@@ -176,15 +176,23 @@ The retail industry faces challenges in understanding customer behavior, optimiz
 
 ## Project Structure
 
-```plaintext
-|-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
-```
 ---
+
+WALMART-SALES-DATA-ANALYSIS/
+│
+├── my_env/                       # Virtual environment (not uploaded to GitHub)
+├── .gitignore                    # Git ignore file
+├── README.md                     # Project documentation
+├── requirements.txt              # Python dependencies
+├── MySQL Queries.sql             # SQL queries for analysis
+├── project.ipynb                 # Jupyter notebook for analysis & visualization
+├── Walmart Business Problems.pdf # Business questions & objectives
+├── walmart_clean_data.csv        # Cleaned dataset
+├── Walmart.csv                   # Raw dataset
+└── walmart-10k-sales-datasets.zip# Compressed dataset
+
+---
+
 
 ## Results and Insights
 
