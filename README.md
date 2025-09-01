@@ -178,11 +178,12 @@ The retail industry faces challenges in understanding customer behavior, optimiz
 
 ---
 
+```
 WALMART-SALES-DATA-ANALYSIS/
 │
 ├── my_env/                       # Virtual environment (not uploaded to GitHub)
-├── .gitignore                    # Git ignore file
 ├── README.md                     # Project documentation
+├── .gitignore                    # Git ignore file
 ├── requirements.txt              # Python dependencies
 ├── MySQL Queries.sql             # SQL queries for analysis
 ├── project.ipynb                 # Jupyter notebook for analysis & visualization
@@ -190,6 +191,8 @@ WALMART-SALES-DATA-ANALYSIS/
 ├── walmart_clean_data.csv        # Cleaned dataset
 ├── Walmart.csv                   # Raw dataset
 └── walmart-10k-sales-datasets.zip# Compressed dataset
+
+```
 
 ---
 
